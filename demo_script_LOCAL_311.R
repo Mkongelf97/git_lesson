@@ -6,6 +6,4 @@ y <- rnorm(700)
 
 # Important feature
 
-#New feature
-
-#Crazy stuff
+#New feature - adding something
