@@ -1,9 +1,9 @@
 # Headline
 
-x <- rnorm(100)
-y <- rnorm(100)
+x <- rnorm(700)
+y <- rnorm(700)
 
 
 # Important feature
 
-#New feature
+#New feature - adding something
